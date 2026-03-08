@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world 👋<br><br>I am Diyor, a frontend developer<br><br>I work on - React, Typescript, Tailwind<br><br>I try to constantly develop and stay in touch with IT trends
+Hello world 👋<br><br>🔭 I am Diyor, a frontend developer<br><br>🖥️ I work on - React, Typescript, Tailwind<br><br>😎 I try to constantly develop and stay in touch with IT trends
 
 
 ## 🌐 Socials:
